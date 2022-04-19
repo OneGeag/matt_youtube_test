@@ -1,0 +1,5 @@
+the cmd directory respons for the presentation of functionality 
+this (hello) module
+
+so main "player/boss/star" is a hello.go module
+main.go is just a simple case for using hello.go
